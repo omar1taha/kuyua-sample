@@ -9,5 +9,6 @@ This is a sample task for Kuyua done in:
 
 To run this project you need to:
 
-1- git clone `https://github.com/omar1taha/kuyua-sample.git`
-2- Then cd to folder and run `npm install` then npm `run dev`
+1- `git clone https://github.com/omar1taha/kuyua-sample.git`
+
+2- Then cd to folder and run `npm install` then `npm run dev`
