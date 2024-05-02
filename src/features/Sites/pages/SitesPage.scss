@@ -1,0 +1,44 @@
+.container {
+  width: 75%;
+  min-height: 100px;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px;
+  border: 1px solid cyan;
+  border-radius: 10px;
+  background-color: rgba(36, 51, 75, 1);
+}
+
+.sitesFilter {
+  width: 100%;
+  height: 35px;
+  background-color: lightgrey;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-withBorderColor,
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-filler {
+  background-color: rgba(36, 51, 75, 1);
+}
+
+.css-t89xny-MuiDataGrid-columnHeaderTitle,
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-cell {
+  color: white;
+  border-top: 0 !important;
+}
+
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-cell--textLeft,
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-cellEmpty {
+  background-color: rgba(61, 74, 101, 1);
+}
+
+.css-1oudwrl::after {
+  background-color: rgba(36, 51, 75, 1) !important;
+}
+
+.css-n3fyjk-MuiDataGrid-root {
+  border-style: none !important;
+}

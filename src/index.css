@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  background-color: rgba(61, 74, 101, 1);
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
